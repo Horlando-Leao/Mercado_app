@@ -1,0 +1,12 @@
+
+CPF:registrar_cliente()registrar_cliente()& C:/Users/Aluno/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Aluno/Documents/MercadoApp/Backend/menu_mercado.py| Nome:& C:/Users/Aluno/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Aluno/Documents/MercadoApp/Backend/menu_mercado.py | Nº casa:& C:/Users/Aluno/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Aluno/Documents/MercadoApp/Backend/menu_mercado.py | Bairro:& C:/Users/Aluno/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Aluno/Documents/MercadoApp/Backend/menu_mercado.py | Cidade:& C:/Users/Aluno/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Aluno/Documents/MercadoApp/Backend/menu_mercado.py | Telofone:& C:/Users/Aluno/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/Aluno/Documents/MercadoApp/Backend/menu_mercado.py
+
+CPF:dfgdfg| Nome:dgd | Nº casa:fgd | Bairro:gdfg | Cidade:dfgdg | Telofone:dfgdfg
+
+CPF:dfgdfg| Nome:dgdfgdg | Nº casa:dfgdfgd | Bairro:gdfgdfg | Cidade:dgdfg | Telofone:gdfgdf
+
+CPF:dgdfgdf| Nome:gdgdgfd | Nº casa:gdfgdgd | Bairro:gdgdgd | Cidade:fgdfgg | Telofone:dgdfg
+
+CPF:2423432| Nome:sgfdd | Nº casa:2342 | Bairro:fsgdfdg | Cidade:sgfdg | Telofone:23435
+
+CPF:12347| Nome:horlando | NÂº casa:1798 | Bairro:aaaa | Cidade:aaaa | Telofone:aaaaa

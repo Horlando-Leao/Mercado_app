@@ -1,0 +1,6 @@
+Codigo:1234-1 | Produto:biscoito treloso | Preço:1.50
+Codigo:1234-2 | Produto:massa vitarela | Preço:2
+Codigo:1234-3 | Produto:feijao sertao | Preço:4.50
+Codigo:1234-5 | Produto:bolacha cream cracker | Preço:3.50
+Codigo:1234-6 | Produto:preservativo king | Pre�o:10.00
+Codigo:1234-7 | Produto:perservativo queen | Pre�o:0.50
